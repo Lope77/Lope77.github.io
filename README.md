@@ -1,1 +1,1 @@
-# Lope77.github.io
+[{"онлайн":"2","maxonline":"500","цвет":"FF0000","x2":"true","ключ":"1424","имя":"WEIKTON GAMES | REVERS","firstname":"RED","secondname":"(X2 \u0410\u041a\u0426\u0418\u0418)","url":"red.blackrussia.online","ip":"188.165. 59.228","порт":"1181"}]
